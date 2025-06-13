@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niharika776  
+- 👋 Hi, I’m Niharika 
 - 👀 I’m interested in AI, Web Development, and turning real-world problems into scalable tech solutions  
 - 🌱 I’m currently learning advanced concepts in Machine Learning, Deep Learning (RNN, BERT). 
 - 💞️ I’m looking to collaborate on AI-driven web applications, automation tools, and impactful open-source projects  
